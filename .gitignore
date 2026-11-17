@@ -1,0 +1,4 @@
+/goldb
+*.aof
+__pycache__/
+*.dSYM/
